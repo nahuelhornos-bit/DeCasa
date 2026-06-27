@@ -1,0 +1,15 @@
+{
+  "name": "decasa-backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "multer": "^2.2.0"
+  }
+}
